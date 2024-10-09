@@ -16,7 +16,7 @@ pip install numpy torch blobfile tqdm pyYaml pillow    # e.g. torch 1.7.1+cu110.
 
 |        Name        | Link                                       |
 | :-----------------: | ------------------------------------------ |
-|  Completion  | https://1drv.ms/f/c/2e4d56a3d20d5c20/EmXvznPFpKRMu9dRpMWMkf8BtLq1n7uEUsy8QO8FBjaR1Q?e=UoTLF8      |
+|  Completion results  | https://1drv.ms/f/c/2e4d56a3d20d5c20/EmXvznPFpKRMu9dRpMWMkf8BtLq1n7uEUsy8QO8FBjaR1Q?e=UoTLF8      |
 | Original EMAG2 data | https://www.ncei.noaa.gov/emag-survey-page |
 |  Pretrained model  | https://1drv.ms/f/c/2e4d56a3d20d5c20/Etyk9PQRhqlEmF1s1v8L6rQBURaacy-HfRvMCk7QxZBhrA?e=pOIINp  |
 
