@@ -60,4 +60,4 @@ If you want train new model on new dataset, it is recommended to follow [guided-
 
 Our code is built upon [RePaint](https://github.com/andreas128/RePaint) and [guided-diffuion](https://github.com/openai/guided-diffusion.git). We thank the authors for their excellent work.
 
-If you have any question, feel free to contact with fymao@zju.edu.cn or fangyuanmaocs@gmail.com .
+If you have any question, feel free to contact fymao@zju.edu.cn or fangyuanmaocs@gmail.com .
