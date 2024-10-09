@@ -30,7 +30,7 @@ bash shell/easy_test.sh
 
 ## Completion method
 
-### 1. Stage 0: Data preprocess
+### 1. Step 0: Data preprocess
 
 Download EMAG2_V3. Run the below command, you can obtain the slice of EMAG2_V3.
 
@@ -38,13 +38,13 @@ Download EMAG2_V3. Run the below command, you can obtain the slice of EMAG2_V3.
 python scripts/preprocess.py
 ```
 
-### 2. Stage 1: Global completion
+### 2. Step 1: Global completion
 
 ```shell
 bash shell/stage1.sh
 ```
 
-### 3. Stage 2: Local completion
+### 3. Step 2: Local completion
 
 ```shell
 bash shell/stage2.sh
