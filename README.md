@@ -41,13 +41,13 @@ python scripts/preprocess.py
 ### 2. Step 1: Global completion
 
 ```shell
-bash shell/stage1.sh
+bash shell/step1.sh
 ```
 
 ### 3. Step 2: Local completion
 
 ```shell
-bash shell/stage2.sh
+bash shell/step2.sh
 ```
 
 ## FAQ
