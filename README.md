@@ -9,7 +9,7 @@
 ### 1. Environment
 
 ```
-pip install numpy torch blobfile tqdm pyYaml pillow    # e.g. torch 1.7.1+cu110.
+pip install numpy torch blobfile tqdm pyYaml pillow pandas    # e.g. torch 1.7.1+cu110.
 ```
 
 ### 2. Download pretrained model and EMAG2 data.
@@ -24,6 +24,8 @@ Place the pretrained model under `./pretrain` and original EMAG2 data under `./E
 
 ### 3. Run example
 
+We prepare an easy test for quick evaluation. The input images and masks are in `./data`. 
+
 ```
 bash shell/easy_test.sh
 ```
@@ -32,7 +34,7 @@ bash shell/easy_test.sh
 
 ### 1. Step 0: Data preprocess
 
-Download EMAG2_V3. Run the below command, you can obtain the slice of EMAG2_V3.
+Download EMAG2_V3 and place it in `./EMAG2`. Run the below command, you can preprocess the EMAG2_V3.
 
 ```shell
 python scripts/preprocess.py
