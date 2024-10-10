@@ -54,7 +54,7 @@ bash shell/step2.sh
 
 **How to apply it for other datasets?**
 
-If you want train new model on new dataset, it is recommended to follow [guided-diffusion](https://github.com/openai/guided-diffusion) repository.
+If you want train new completion model on a new dataset, it is recommended to follow [guided-diffusion](https://github.com/openai/guided-diffusion) repository to obtain guided-diffusion model, then follow our completion method.
 
 ## Acknowledgements
 
