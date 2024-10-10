@@ -15,7 +15,7 @@ pip install numpy torch blobfile tqdm pyYaml pillow    # e.g. torch 1.7.1+cu110.
 ### 2. Download pretrained model and EMAG2 data.
 
 |        Name        | Note                                       |
-| :-----------------: | ------------------------------------------ |
+| :-----------------: | :------------------------------------------: |
 |  [Completion results](https://1drv.ms/f/c/2e4d56a3d20d5c20/EmXvznPFpKRMu9dRpMWMkf8BtLq1n7uEUsy8QO8FBjaR1Q?e=UoTLF8)  |  Our completion results including csv and pdf |
 | [Public EMAG2 data](https://www.ncei.noaa.gov/emag-survey-page) | EMAG2 data |
 |  [Pretrained model](https://1drv.ms/f/c/2e4d56a3d20d5c20/Etyk9PQRhqlEmF1s1v8L6rQBURaacy-HfRvMCk7QxZBhrA?e=pOIINp)  |  Pretrained guided-diffusion model |
