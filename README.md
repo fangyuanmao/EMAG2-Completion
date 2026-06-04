@@ -2,6 +2,10 @@
 
 **Recovering Missing Regions of Earth Magnetic Anomaly Grid data (EMAG2) Using RePaint based on Diffusion Model**
 
+[![](https://img.shields.io/badge/ResearchPaper%20-b31b1b?logo=arxiv&logoColor=red)](https://doi.org/10.1016/j.bdes.2025.100004) 
+[![](https://img.shields.io/badge/GitHub-Code-black?logo=github)](https://github.com/fangyuanmao/EMAG2-Completion)
+[![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97%20EMAG2-HuggingFace-yellow)](https://huggingface.co/datasets/FerrisMao/EMAG2-completion)
+
 ![1728467390246](image/README/1728467390246.png)
 
 ## Set up
